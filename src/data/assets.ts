@@ -78,9 +78,9 @@ export const PROJECTS: ProjectData[] = [
   },
   {
     number: "03",
-    category: "Client",
-    name: "Design for page",
-    url: "https://kinetic-labs-kappa.vercel.app/",
+    category: "Personal",
+    name: "Aura Studio",
+    url: "https://dharanaura-studio.vercel.app/",
     col1a:
       "https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055759_963cfb0b-4bd1-4b0f-9d0a-09bd6cf95b2f.png&w=1280&q=85",
     col1b:
